@@ -3,7 +3,7 @@
 ## List of Python Exercises :
 
 
-1. [Python Basic (Part -I) [ 150 Exercises with Solution ]](https://www.w3resource.com/python-exercises/python-basic-exercises.php) :white_square_button:
+1. [Python Basic (Part -I) [ 150 Exercises with Solution ]](https://www.w3resource.com/python-exercises/python-basic-exercises.php) :construction:
 1. [Python Basic (Part -II) [ 145 Exercises with Solution ]](https://www.w3resource.com/python-exercises/basic/) :white_square_button:
 1. [Python Programming Puzzles [ 100 Exercises with Solution]](https://www.w3resource.com/python-exercises/puzzles/index.php) :white_square_button:
 1. [Python built-in Modules [ 31 Exercises with Solution ]](https://www.w3resource.com/python-exercises/modules/index.php) :white_square_button:
