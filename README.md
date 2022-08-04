@@ -15,9 +15,9 @@
 * [Python Data Types - Sets](#python-data-types-sets-white_square_button) :white_square_button:
 * [Python Data Types - Collections](#python-data-types-collections-white_square_button) :white_square_button:
 * [Python heap queue algorithm](#python-heap-queue-algorithm-white_square_button) :white_square_button:
-* [Python Array](#python-array-white_square_button-white_square_button)(#python-array-white_square_button) :white_square_button:
-* [Python Enum](#python-enum-white_square_button-white_square_button)(-white_square_button) :white_square_button:
-* [Python Bisect](#pythonbisect-white_square_button)(-white_square_button) :white_square_button:
+* [Python Array](#python-array-white_square_button-white_square_button) :white_square_button:
+* [Python Enum](#python-enum-white_square_button-white_square_button-white_square_button) :white_square_button:
+* [Python Bisect](#pythonbisect-white_square_button-white_square_button) :white_square_button:
 * [Python Conditional statements and loops](#python-conditional-statements-and-loops-white_square_button) :white_square_button:
 * [Python functions](#python-functions-white_square_button) :white_square_button:
 * [Python Lambda](#python-lambda-white_square_button) :white_square_button:
